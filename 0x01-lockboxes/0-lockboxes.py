@@ -6,7 +6,7 @@ Function to unock boxes with keys
 
 def canUnlockAll(boxes):
     '''
-    n number of locked boxes each box is numbered 
+    N number of locked boxes each box is numbered 
     sequentially from 0 to n - 1
     and each box may contain keys to the other boxes.
     '''
