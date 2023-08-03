@@ -1,13 +1,13 @@
 #!/usr/bin/python3
 """
-Function to unock boxes with keys
+Function to unock boxex
 """
 
 
 def canUnlockAll(boxes):
     '''
-    N number of locked boxes each box is numbered 
-    sequentially from 0 to n - 1
+    Given n number of locked boxes.
+    Each box is numbered sequentially from 0 to n - 1
     and each box may contain keys to the other boxes.
     '''
 
